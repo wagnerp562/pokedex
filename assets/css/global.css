@@ -4,7 +4,10 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #f6f8fc49;
+    background-image: url(https://images7.alphacoders.com/592/592678.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment:fixed
 }
 
 .content {
